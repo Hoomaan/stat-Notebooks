@@ -1,29 +1,40 @@
-# stat-Notebooks
-Install latest miniconda environment
-To create the environment:
+#stat-Notebooks
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hoomaan/stat-Notebooks/master)
 
-	conda create --name stat py3 python=3.6
-	
-To activate:
-conda activate stat
 
-To deactivate:
-conda deactivate
+#Basic numerical operation in python
 
-conda install numpy pandas scipy scikit-learn  matplotlib seaborn bokeh spyder jupyter
+#Basic numerical operation in python using Numpy
 
-#basic exploration of data: scatter plotting, Counting, histogram, range
-#Basic plotting, scatter plot, time series plot, bar plot types,
+#Using pandas for tables containing mixed data
+
+#Basic plotting using matplotlib, scatter plot, time series plot, bar plot types
+
+#basic exploration of data: scatter plotting, Counting, histogram
+
+#Basic summary statistics, mean, median
+
+#Statistical plots: Error bars, Box plots, scatter plots
+
+#Plotting libraries: matplotlib, seaborn, boke
+
 #Making interactive widgets in notebooks
-#Basic statistics numbers
-#Box plots
-#statistical significance test
-#Plotting libraries: matplotlib, boke
-#Linear regression
-#regularization
-#Calssification (logistic regression)
-#decision trees
-#random forest
-#Neural nets
-#Clustering: Kmean
 
+#---------------------------------------------
+
+#statistical significance test
+
+#Linear regression
+
+#Regularization
+
+#Calssification (logistic regression)
+
+#Decision trees
+
+#Random forest
+
+#Neural nets
+
+#Clustering: Kmean
+#------------------------------------
